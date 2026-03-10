@@ -12,8 +12,7 @@ In this lab you have learned about multiplexers and demultiplexers.
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
-Simon Wilch
-Sebastian 
+Simon Wilch & Sebastian Delgado
 
 ## Summary
 We learned how to program multiplexers and demultiplexers in vivado and a practical use case of them. We learned about the conditional operator and how useful it is. We got to experience mux and demux on the real board, too.
